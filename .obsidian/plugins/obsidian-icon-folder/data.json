@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiTags",
+      "LiFileText",
+      "LiUsers",
+      "LiStar"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Миллениум.md": "LiStar",
+  "Справка по юзерам.md": "LiUsers",
+  "Архивы/Природа/Река Волоха/Река Волоха.md": "LiFileText",
+  "Справка по тегам.md": "LiTags",
+  "Архивы/Природа/Сорта Пивомника/Сорта Пивомника.md": "LiFileText",
+  "Архивы/Природа/Реки Атлассии/Реки Атлассии.md": "LiFileText",
+  "Архивы/Природа/Бакаваас/Бакаваас.md": "LiFileText",
+  "Архивы/Природа/Озёра Миллениума/Озёра Миллениума.md": "LiFileText",
+  "Архивы/Природа/Река Монголка/Река Монголка.md": "LiFileText",
+  "Архивы/Природа/Грибные леса/Грибные леса.md": "LiFileText",
+  "Архивы/Природа/Самоцветные зоны/Самоцветные зоны.md": "LiFileText",
+  "Архивы/Природа/Артроподы/Артроподы.md": "LiFileText",
+  "Архивы/Природа/Норсвильская лапка/Норсвильская лапка.md": "LiFileText",
+  "Архивы/Природа/Смещение климатических поясов/Смещение климатических поясов.md": "LiFileText"
+}
